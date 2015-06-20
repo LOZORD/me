@@ -23,9 +23,16 @@ Take a look around:
 
 ### [Recent-ish PDF](http://example.com)
 
-## Art
+## [Art](http://github.com/LOZORD/me/art)
 
-## Work
+I create art through computational and digital mediums.
+The majority of my work falls in two categories:
+
+### [Glitch Art](http://github.com/LOZORD/me/art/glitched)
+
+### [Generated Art](http://github.com/LOZORD/me/art/generated)
+
+## Projects and Work
 
 * [GitHub](http://github.com/LOZORD)
 * Paradrop: [new](http://paradrop.io) and [old](http://paradrop.org)
