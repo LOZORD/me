@@ -23,14 +23,14 @@ Take a look around:
 
 ### [Recent-ish PDF](http://example.com)
 
-## [Art](http://github.com/LOZORD/me/art)
+## [Art](http://github.com/LOZORD/me/tree/master/art)
 
 I create art through computational and digital mediums.
 The majority of my work falls in two categories:
 
-### [Glitch Art](http://github.com/LOZORD/me/art/glitched)
+### [Glitch Art](http://github.com/LOZORD/me/tree/master/art/glitched)
 
-### [Generated Art](http://github.com/LOZORD/me/art/generated)
+### [Generated Art](http://github.com/LOZORD/me/tree/master/art/generated)
 
 ## Projects and Work
 
