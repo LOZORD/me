@@ -4,7 +4,7 @@ Welcome to my personal website! No, seriously!
 I'm a soon-to-be fourth year student at the [University of Wisconsin-Madison](http://wisc.edu),
 where I'm majoring in [Computer Sciences](http://cs.wisc.edu) and [Mathematics](http://math.wisc.edu).
 
-See the __News__ section to learn what I've been up to most recently.
+See the [__News__](#news) section to learn what I've been up to most recently.
 
 Being a busy hacking hedge knight/console cowboy/college student/intern leaves
 me with little time to worry about maintaining a nice personal site. Plus, this
@@ -21,7 +21,7 @@ Take a look around:
 
 ### [Live Resume](https://docs.google.com/document/d/1d0WxjT2ZJi4EQ-GkS-a0-QpzHyQuDAlBOyY8acCe-2w/pub)
 
-### [Recent-ish PDF](http://example.com)
+### [Recent-ish PDF](http://github.com/LOZORD/me/tree/master/LeoRudbergResume.pdf)
 
 ## [Art](http://github.com/LOZORD/me/tree/master/art)
 
