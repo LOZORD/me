@@ -13,9 +13,9 @@ is free, and I love git!
 I have old information [here](http://cs.wisc.edu/~leo).
 
 This is what I look like:
-(photo should go here...)
+![Yup, this is me](https://github.com/LOZORD/me/blob/master/me.jpg)
 
-Take a look around:
+Take a look around...
 
 ## Resume
 
