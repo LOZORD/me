@@ -10,7 +10,7 @@ Being a busy hacking hedge knight/console cowboy/college student/intern leaves
 me with little time to worry about maintaining a nice personal site. Plus, this
 is free, and I love git!
 
-I have old information [here](http://cs.wisc.edu:~leo).
+I have old information [here](http://cs.wisc.edu/~leo).
 
 This is what I look like:
 (photo should go here...)
