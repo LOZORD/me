@@ -19,7 +19,7 @@ Take a look around...
 
 ## Resume
 
-### [Live Resume](https://docs.google.com/document/d/1d0WxjT2ZJi4EQ-GkS-a0-QpzHyQuDAlBOyY8acCe-2w/pub)
+### [Live Resume](https://docs.google.com/document/d/1d0WxjT2ZJi4EQ-GkS-a0-QpzHyQuDAlBOyY8acCe-2w/view)
 
 ### [Recent-ish PDF](http://github.com/LOZORD/me/tree/master/LeoRudbergResume.pdf)
 
