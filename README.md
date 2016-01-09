@@ -45,7 +45,7 @@ The majority of my work falls in two categories:
 
 ## News
 
-### [Exis](exis.io)
+### [Exis](http://www.exis.io/)
 What I'm working on now!
 ### Google Software Engineering Residency
 What I'm doing in September!
