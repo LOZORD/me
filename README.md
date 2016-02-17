@@ -4,13 +4,13 @@ Welcome to my personal website! No, seriously!
 I'm a fourth year student at the [University of Wisconsin-Madison](http://wisc.edu),
 where I'm majoring in [Computer Sciences](http://cs.wisc.edu) and [Mathematics](http://math.wisc.edu).
 
-This upcoming September, I will be joining [Google](google.com) in their New York office as a Software Engineering Resident.
+This upcoming September, I will be joining [Google](https://google.com) in their New York office as a Software Engineering Resident.
 
 See the [__News__](#news) section to learn what I've been up to most recently.
 
 Being a busy hacking hedge knight/console cowboy/college student/intern leaves
 me with little time to worry about maintaining a nice personal site. Plus, this
-is free, and I love git!
+is free, and I :heart: git!
 
 I have old information [here](http://cs.wisc.edu/~leo).
 
@@ -40,13 +40,18 @@ The majority of my work falls in two categories:
 
 * [GitHub](http://github.com/LOZORD)
 * Paradrop: [new](http://paradrop.io) and [old](http://paradrop.org)
-* [Git Tutorial](https://gist.github.com/LOZORD/3f4271e461f6d8aaa99d)
-* [Ruby Tutorial](https://gist.github.com/LOZORD/4125803c951334077807)
+* Exis: [exis.io](http://exis.io)
+* [Talks](https://github.com/uw-upl/talks#readme) I've given
+  * git and GitHub
+  * Ruby
+  * Haskell
 
 ## News
 
-### [Exis](http://www.exis.io/)
-What I'm working on now!
+### Exis :arrow_right: Paradrop
+Now that Exis has joined [gener8tor](http://www.gener8tor.com),
+I've moved back to the research-oriented Paradrop team!
+
 ### Google Software Engineering Residency
-What I'm doing in September!
+What I'm doing in September! Check it out [here](https://www.google.com/about/careers/students/engres.html).
 
