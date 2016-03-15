@@ -25,6 +25,10 @@ Take a look around...
 
 ### [Recent-ish PDF](http://github.com/LOZORD/me/tree/master/LeoRudbergResume.pdf)
 
+## [Ideas](https://github.com/LOZORD/me/tree/master/ideas.markdown)
+
+These are some ideas I've had for projects.
+
 ## [Writing](http://github.com/LOZORD/me/tree/master/writing)
 
 ## [Art](http://github.com/LOZORD/me/tree/master/art)
@@ -45,6 +49,8 @@ The majority of my work falls in two categories:
   * git and GitHub
   * Ruby
   * Haskell
+ 
+Lately, I've been working on a browser-based MUD called [Xanadu](https://github.com/LOZORD/xanadu). 
 
 ## News
 
