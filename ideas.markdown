@@ -48,7 +48,19 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 ## Mobile
 
 - A dating app that uses the Stable Marriage Algorithm
-- TODO
+- A phone app that simplifies DJing for radio DJs
+- A phone app that does supports the trend of taking pictures of your food
+  - Would bring in information about menus, nutritional info, ingredients,
+    recipes, similar meals and photos, and suggestions
+- A phone app whose goal is to replace the business card
+  - Could add dynamic features such as stock prices or map integration
+- Security and permissions through selfies (groan)
+- A messaging game where players have to guess each others' secret words
+  - The twist is that if a text contains a certain player's secret word,
+  the player will not see that message.
+  - Sort of like reverse Taboo?
+- Uber for Ninjas: hire people to find other people for you
+  - E.g. you and your friend are mutually lost at a large event
 
 ## Artificial Intelligence, Machine Learning, and Natural Language Processing
 
@@ -64,4 +76,29 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 
 ## Hardware
 
+- Parabolic fan/umbrella with solar cells so that it can track the sun and
+  properly block it
+- (Open source) lazer tag
+- Computer vision theremin
+- Nod ring/Myo armband for manipulating CAT scans and 3D radiology images
+- Using Walkmans and tape recorders as portable storage drives
+
 ## Miscellany
+
+- Terminal-based guitar tab (teacher)
+- CLI app that inspects directories to determine an "optimal" file/subdirectory
+  hierarchy
+- Given a phone number, can it's digits represent any (English) words via T9?
+- A cryptocurrency used (exclusively) in the competitive gaming community
+  - Use case: "money matches"
+- Look into the modularization of hospital rooms
+  - I.e. room design and objects would better reflects patients' needs
+- Store an encrypted password file using git
+  - This would basically be like using keepass with remote SCM
+- Using Slack/[slackcat](https://github.com/rlister/slackcat) as an SCM tool
+- [Reverberation Radio](http://reverberationradio.com) CLI like `pianobar`
+  - I attempted this with [reve.rb](https://github.com/LOZORD/reve.rb)
+- A human-readble (i.e. memorizable) hash translator
+  - For example, instead of the latest download of _ having a SHA of 12345,
+  it would be "awesome antelope" or something like that
+  - Check [this](https://tools.ietf.org/html/rfc1751) out
