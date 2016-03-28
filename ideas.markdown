@@ -28,6 +28,27 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 
 ## Compilers and Languages
 
+- Prolog^Rails framework
+  - Basically a Prolog-style database wrapper using Rails
+- Medusa: Python to Ruby compiler
+  - Snazzy name, right?
+- D to C++ compiler
+- asm.js to x86 (or MIPS :smile:)
+- Prepositions to "dot" notation
+  - `append de array` instead of `array.append`
+  - This is completely useless but very funny
+- Postgres as a programming language
+- Bycom: a programming language (factory) designed __by committee__
+  - This would be like MadLibs but for language design
+- Blintz: a linter for the visually impaired
+  - Takes errors with code and transforms it so it can be piped into something like `say`
+- Add "Allman style" bracing to Io, `else if` lists, single quote strings
+  - I messed around with Io back in the summer of 2014 and really liked it
+  - I think these would be cool features/additions to propose
+- The ultimate compiler: find a way to translate simple English instructions into code
+  - I feel like this is more of a linguistic and philosophical problem than computational
+- Make a programming language that is the unholy union of [Rail](https://esolangs.org/wiki/Rail) and [Factorio](https://www.factorio.com/)
+
 ## Art and Music
 
 - Actually implement Autoszkiewicz
@@ -38,6 +59,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Pure HTML/CSS responsive silhouette
 - Pure HTML/CSS responsive self-portrait
 - A library to dynamically generate arabesques (Middle Eastern geometric tile art)
+  - [Wallpaper groups](https://en.wikipedia.org/wiki/Wallpaper_group)
 - Lost and stolen art reporting and verifying site
 - Dueling banjos for Sonic Pi
   - Extra points if the two computers pass their code between each other and evolve it over time
