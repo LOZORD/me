@@ -35,7 +35,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - Like King of the Hill in TF2 :heart:
 - If you look at the HTML of webpages, it often very ugly (WRT indentation)
   - This should be used to create random worlds for a game
-- Reviving the apocryphal [UPL](https://upl.cs.wisc.edu) Shadow Children game
+- Reviving the apocryphal [UPL](http://upl.cs.wisc.edu) Shadow Children game
 - Strobe game
   - A 2D turn-based multiplayer game which chunkifies gameplay into quanta
   - Users buffer input while an "update timer" counts down
