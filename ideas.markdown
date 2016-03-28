@@ -26,6 +26,48 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 
 ## Games
 
+- Galaga with stackable/collectable power-ups
+- "You only have one bullet"
+  - Inspired by a Ludum Dare theme a while back
+  - Could work really well in a post-apocalyptic or stealth scenario
+- [Pool's Closed](http://knowyourmeme.com/memes/pools-closed): The Game
+  - A team-based multiplayer game wear you work together to keep other teams out of the pool
+  - Like King of the Hill in TF2 :heart:
+- If you look at the HTML of webpages, it often very ugly (WRT indentation)
+  - This should be used to create random worlds for a game
+- Reviving the apocryphal [UPL](https://upl.cs.wisc.edu) Shadow Children game
+- Strobe game
+  - A 2D turn-based multiplayer game which chunkifies gameplay into quanta
+  - Users buffer input while an "update timer" counts down
+  - The game takes place on a symmetric map with "base" structures
+  - The guts would be similar to [Xanadu](https://github.com/lozord/xanadu), but more like TF2/Battlefront
+  - The goal of the game would be to capture enemy bases
+- A game about keeping one single secret from NPCs
+- "Vectors on a plane game"
+  - I'm pretty sure this has been done before
+  - Players attempt to "sail" a token through a grid, and the token's movement is defined by vectors on the map
+- Create a 2D "multiple choice" game engine
+  - Kind of like a low-budget, hacky, Telltale game
+- Point-and-click game engine that just consumes a static HTML/Markdown file for how the game works
+- __2D__ Rubik's Cube web game
+  - Responsive (works perfectly on mobile)
+  - Animated movements (time for CSS...)
+  - Instead of 3D, the cube would be cut into different shapes (think of peeling an orange)
+- A collaborative teamwork programming game similar to telephone
+- Implement Guitar Hero controller processing to "play guitar"
+  - Use beat analysis and pattern matching to create sample loops for instruments
+  - Integrate with Sonic Pi
+  - Integrate with Pianobar
+- A Vaporwave-themed crypto puzzle game
+  - Graphic novel-style ASCII art
+- Implement a card counting algorithm
+- An evolving (maze/platformer) game
+  - When someone beats a level, a new one is procedurally generated and added to the "canon" of the game
+  - Everyone plays the same levels, but new ones have to be unlocked first!
+- Space rover resource/pipe direction game
+  - Challenge: implement it in a single HTML `<table>`
+  - Updates on every keypress
+
 ## Compilers and Languages
 
 - Prolog^Rails framework
