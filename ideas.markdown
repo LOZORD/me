@@ -22,7 +22,23 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - "What's the world's favorite color?"
   A website that receives a person's favorite color and then adds it to the average color of the background of the website.
   It would also collect their location and map the color to a zone on the site.
-- TODO
+- User-generated Facebook stickers
+- Movember competition web app
+- Web cam light detection app
+- Politics web app for showing what bills are being voted on that affect users
+- Markov chain-backed TODO list (what tasks do you need to complete today given previous tasks)
+- Fizz buzz certification API
+- Web app for introducing proof-based math to pre-college students
+- Finish [Illuminati in the News](https://github.com/lozord/illuminati-in-the-news)
+- Parallax design library
+- Cretin: GitHub for non-code related purposes (e.g. poetry and creative writing)
+- Vaporcoin: no-value cryptocurrency, cannot be used for anything
+- DotStyles: Pinterest-like app that suggests music and fashion depending on your GitHub language activity
+  - E.g. C -> 70s/80s style, JS -> 90s tech and hipsters
+- Restarting Loadin
+- Restarting D3 (SWE project)
+- Restarting Moov
+- Accessabeer: open web accessibility site that tells users if bars are handicap-accessible
 
 ## Games
 
@@ -137,6 +153,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - A CSS/JS extension for outputting formatted images from [this library](https://github.com/jaysalvat/jquery.facedetection/tree/master)
 - Derive a typeface using an evolutionary algorithm. It should go from square blocks to readable letters.
   - Attempted by me [here](https://github.com/LOZORD/octothorpe)
+- Dance party music mixer AI
 
 ## Hardware
 
