@@ -29,7 +29,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Markov chain-backed TODO list (what tasks do you need to complete today given previous tasks)
 - Fizz buzz certification API
 - Web app for introducing proof-based math to pre-college students
-- Finish [Illuminati in the News](https://github.com/lozord/illuminati-in-the-news)
+- Finish [Illuminati in the News](https://github.com/lozord/illuminati_in_the_news)
 - Parallax design library
 - Cretin: GitHub for non-code related purposes (e.g. poetry and creative writing)
 - Vaporcoin: no-value cryptocurrency, cannot be used for anything
@@ -179,6 +179,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Using Slack/[slackcat](https://github.com/rlister/slackcat) as an SCM tool
 - [Reverberation Radio](http://reverberationradio.com) CLI like `pianobar`
   - I attempted this with [reve.rb](https://github.com/LOZORD/reve.rb)
+  - Use React Native for non-CLI?
 - A human-readble (i.e. memorizable) hash translator
   - For example, instead of the latest download of _ having a SHA of 12345,
   it would be "awesome antelope" or something like that
