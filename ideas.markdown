@@ -39,6 +39,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Restarting D3 (SWE project)
 - Restarting Moov
 - Accessabeer: open web accessibility site that tells users if bars are handicap-accessible
+- `Enhance your calm` (Express) error handler :arrow_right: Macintosh Plus :palm_tree:
 
 ## Games
 
