@@ -40,6 +40,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Restarting Moov
 - Accessabeer: open web accessibility site that tells users if bars are handicap-accessible
 - `Enhance your calm` (Express) error handler :arrow_right: Macintosh Plus :palm_tree:
+- [CurrentCondition](https://www.reddit.com/domain/currentcondition.org/), but with [XScreenSaver](https://en.wikipedia.org/wiki/XScreenSaver)
 
 ## Games
 
