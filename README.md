@@ -57,6 +57,11 @@ Lately, I've been working on a browser-based MUD called [Xanadu](https://github.
 ### Graduated! :mortar_board:
 I am now an official graduate of UW-Madison! Here's to a bright and hacky future!
 
+Here's a photo of me warming up in the [UPL](http://uw-upl.github.io) after it hailed at graduation. (Gotta :heart: Wisco!)
+![Me after graduation](IMG_0792.jpeg)
+
+The origami crane I wore was from the Math Dept. and [Matt Ward](http://mattwardenterprises.com/).
+
 ### Google Software Engineering Residency
 What I'm doing in September! Check it out [here](https://www.google.com/about/careers/students/engres.html).
 
