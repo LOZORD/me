@@ -1,8 +1,8 @@
 # Me, Leo Rudberg
 Welcome to my personal website! No, seriously!
 
-I'm a fourth year student at the [University of Wisconsin-Madison](http://wisc.edu),
-where I'm majoring in [Computer Sciences](http://cs.wisc.edu) and [Mathematics](http://math.wisc.edu).
+I have recently graduated from the [University of Wisconsin-Madison](http://wisc.edu),
+where I majored in [Computer Sciences](http://cs.wisc.edu) and [Mathematics](http://math.wisc.edu).
 
 This upcoming September, I will be joining [Google](https://google.com) in their New York office as a Software Engineering Resident.
 
@@ -54,9 +54,8 @@ Lately, I've been working on a browser-based MUD called [Xanadu](https://github.
 
 ## News
 
-### Exis :arrow_right: Paradrop
-Now that Exis has joined [gener8tor](http://www.gener8tor.com),
-I've moved back to the research-oriented Paradrop team!
+### Graduated! :mortar_board:
+I am now an official graduate of UW-Madison! Here's to a bright and hacky future!
 
 ### Google Software Engineering Residency
 What I'm doing in September! Check it out [here](https://www.google.com/about/careers/students/engres.html).
