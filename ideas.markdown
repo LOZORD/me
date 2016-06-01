@@ -85,6 +85,10 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Space rover resource/pipe direction game
   - Challenge: implement it in a single HTML `<table>`
   - Updates on every keypress
+- [Cool Games Inc.](http://www.polygon.com/coolgamesinc) Ideas
+  - Permadeath, unliscensed, multiplayer wrestling game
+  - Procedurally generated shower UI VR game
+  - One night (real time) to make $1M
 
 ## Compilers and Languages
 
@@ -125,7 +129,8 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - Extra points if the two computers pass their code between each other and evolve it over time
   - Read [this](http://joearms.github.io/2016/01/28/A-Badass-Way-To-Connect-Programs-Together.html)
 - Lorem ipsum image generator
-
+- "OpenGL/WebGL scene to ASCII" library
+  - Shoutout to [zeroeth](https://github.com/zeroeth) and [this video](http://sol.gfxile.net/litterae/)
 
 ## Mobile
 
@@ -143,6 +148,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - Sort of like reverse Taboo?
 - Uber for Ninjas: hire people to find other people for you
   - E.g. you and your friend are mutually lost at a large event
+- Mobile keyboard for learning a new human language
 
 ## Artificial Intelligence, Machine Learning, and Natural Language Processing
 
@@ -156,6 +162,8 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Derive a typeface using an evolutionary algorithm. It should go from square blocks to readable letters.
   - Attempted by me [here](https://github.com/LOZORD/octothorpe)
 - Dance party music mixer AI
+- Given an emoji "sentence," transform it into a likely English sentence
+  - See [whatmoji.com](http://whatmoji.com/) for a similar idea
 
 ## Hardware
 
