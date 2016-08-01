@@ -41,6 +41,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Accessabeer: open web accessibility site that tells users if bars are handicap-accessible
 - `Enhance your calm` (Express) error handler :arrow_right: Macintosh Plus :palm_tree:
 - [CurrentCondition](https://www.reddit.com/domain/currentcondition.org/), but with [XScreenSaver](https://en.wikipedia.org/wiki/XScreenSaver)
+- "Radio" on GitHub pages
 
 ## Games
 
@@ -85,6 +86,10 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Space rover resource/pipe direction game
   - Challenge: implement it in a single HTML `<table>`
   - Updates on every keypress
+- [Strikers 1945](https://en.wikipedia.org/wiki/Strikers_1945)-style game
+  - up to 4 players
+  - "borderless" horizontal movement
+  - different types of levels/missions
 - [Cool Games Inc.](http://www.polygon.com/coolgamesinc) Ideas
   - Permadeath, unliscensed, multiplayer wrestling game
   - Procedurally generated shower UI VR game
