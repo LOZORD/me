@@ -184,7 +184,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Terminal-based guitar tab (teacher)
 - CLI app that inspects directories to determine an "optimal" file/subdirectory
   hierarchy
-- Given a phone number, can it's digits represent any (English) words via T9?
+- Algorithm: Given a phone number, can its digits represent any (English) words via T9?
 - A cryptocurrency used (exclusively) in the competitive gaming community
   - Use case: "money matches"
 - Look into the modularization of hospital rooms
@@ -199,3 +199,6 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - For example, instead of the latest download of _ having a SHA of 12345,
   it would be "awesome antelope" or something like that
   - Check [this](https://tools.ietf.org/html/rfc1751) out
+- Reviving the Geek Code
+  - Larry Wall's [Geek Code](http://www.wall.org/~larry/ungeek.html)
+  - Possibly creating a friendship/dating app off of Geek Code :laughing:
