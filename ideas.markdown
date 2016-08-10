@@ -202,3 +202,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Reviving the Geek Code
   - Larry Wall's [Geek Code](http://www.wall.org/~larry/ungeek.html)
   - Possibly creating a friendship/dating app off of Geek Code :laughing:
+- `sqalloc` - a SQL interface for memory allocation in C (or Go?)
+  - my attempt at taking the whole transactional memory thing a little too seriously
+  - it basically turns your available heap chunk into a database with tables for different types
+  - might be a worse version of slab allocation :grinning:
