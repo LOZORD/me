@@ -129,6 +129,8 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Pure HTML/CSS responsive self-portrait
 - A library to dynamically generate arabesques (Middle Eastern geometric tile art)
   - [Wallpaper groups](https://en.wikipedia.org/wiki/Wallpaper_group)
+  - [HTML Canvas Patterns](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors#Patterns)
+  - Might be also good to do with cosmic bowling/90's graphic patterns
 - Lost and stolen art reporting and verifying site
 - Dueling banjos for Sonic Pi
   - Extra points if the two computers pass their code between each other and evolve it over time
