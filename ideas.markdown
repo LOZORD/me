@@ -168,6 +168,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - A CSS/JS extension for outputting formatted images from [this library](https://github.com/jaysalvat/jquery.facedetection/tree/master)
 - Derive a typeface using an evolutionary algorithm. It should go from square blocks to readable letters.
   - Attempted by me [here](https://github.com/LOZORD/octothorpe)
+  - [This project](https://github.com/nodebox/opentype.js) might be useful
 - Dance party music mixer AI
 - Given an emoji "sentence," transform it into a likely English sentence
   - See [whatmoji.com](http://whatmoji.com/) for a similar idea
