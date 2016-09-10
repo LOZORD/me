@@ -153,6 +153,8 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Dueling banjos for Sonic Pi
   - Extra points if the two computers pass their code between each other and evolve it over time
   - Read [this](http://joearms.github.io/2016/01/28/A-Badass-Way-To-Connect-Programs-Together.html)
+- Integrate [Mittsu](https://github.com/jellymann/mittsu) into Sonic Pi for music visualization
+  - Plan visualization based on Sonic Pi input code (e.g. beat, instrumentation, complexity, etc.)
 - Lorem ipsum image generator
 - "OpenGL/WebGL scene to ASCII" library
   - Shoutout to [zeroeth](https://github.com/zeroeth) and [this video](http://sol.gfxile.net/litterae/)
