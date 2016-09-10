@@ -94,6 +94,24 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - Permadeath, unliscensed, multiplayer wrestling game
   - Procedurally generated shower UI VR game
   - One night (real time) to make $1M
+- Drunken sailor game
+  - Drunken Sailor tries to escape 1-dimensional street while being chased by 2 constables and 1 sheriff
+  - The DS wins if he escapes
+  - The police win if they contain him with `[C,S,DS,C]` (or reflection) formation
+- A similar game as the Drunken Sailor one mentioned above, but with two players or teams trying to catch eachothers' sheriff
+  - Perhaps game board is a circle instead of a strip
+- Number zombie game
+  - start with `x` health, lose `y` health per move
+  - grid with blank cells and numbered cells
+  - zombie moves `y` spaces each turn
+  - when you move onto a number, `y` becomes that number, and `y` is added to your health
+  - ergo, higher numbers move you faster but lose more health
+  - the numbers in the grid move at their own speed as well
+  - numbers try to avoid you
+  - 0 will kill you. Numbers are 0-9?
+- A medieval bard game that uses Guitar Hero/Rockband controllers
+- Spacebard: a sci-fi version of the game above
+  - Possibly JRPG/Pokemon style gameplay and combat?
 
 ## Compilers and Languages
 
