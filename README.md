@@ -1,7 +1,7 @@
 # Me, Leo Rudberg
 Welcome to my personal website! No, seriously!
 
-I am currently a software engineer at [Google](https://google.com), working on making [Zagat](https://zagat.com) awesome.
+I am currently a software engineer at [Google](https://google.com), working on an internal tool in Maps.
 I am part of the [Engineering Residency](https://www.google.com/about/careers/students/engres.html#) program, as well.
 
 See the [__News__](#news) section to learn what I've been up to most recently.
@@ -49,4 +49,4 @@ Lately, I've been working on a browser-based MUD called [Xanadu](https://github.
 ## News
 
 ### Google Software Engineering Residency
-I just finished the "Google School" portion of the residency! I am now working on an internal tools team within Zagat.
+I just finished the "Google School" portion of the residency! I am now working on an internal tools team within Maps.
