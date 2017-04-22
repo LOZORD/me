@@ -1,7 +1,7 @@
 # Me, Leo Rudberg
 Welcome to my personal website! No, seriously!
 
-I am currently a software engineer at [Google](https://google.com), working on an internal tool in Maps.
+I am currently a software engineer at [Google](https://google.com), working on making awesome internal and external tools for Golang.
 I am part of the [Engineering Residency](https://www.google.com/about/careers/students/engres.html#) program, as well.
 
 See the [__News__](#news) section to learn what I've been up to most recently.
@@ -44,7 +44,8 @@ The majority of my work falls in two categories:
   * Ruby
   * Haskell
  
-Lately, I've been working on a browser-based MUD called [Xanadu](https://github.com/LOZORD/xanadu). 
+Lately, I've been working on a browser-based MUD called [Xanadu](https://github.com/LOZORD/xanadu).
+I've also been helping out the masterful Perry K with [pas](https://github.com/pas-audio-server).
 
 ## News
 
