@@ -45,5 +45,7 @@ The majority of my work falls in two categories:
 * [Angular](https://gist.github.com/LOZORD/613f50b6789e914c9cbe3960f06ae1cf)
 * [Go](https://gist.github.com/LOZORD/0b8b1a58cc336557f9b714f17b1ea9e3)
 
+## News
+
 ### I wrote something!
 After my experience working on the Go team at Google, I decided to [write about it](https://medium.com/@ljrudberg/working-on-the-go-team-at-google-917b2c8d35ff)!
