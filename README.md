@@ -42,8 +42,10 @@ The majority of my work falls in two categories:
   * git and GitHub
   * Ruby
   * Haskell
-* [Angular](https://gist.github.com/LOZORD/613f50b6789e914c9cbe3960f06ae1cf)
-* [Go](https://gist.github.com/LOZORD/0b8b1a58cc336557f9b714f17b1ea9e3)
+  * [Angular](https://gist.github.com/LOZORD/613f50b6789e914c9cbe3960f06ae1cf)
+  * [Go](https://gist.github.com/LOZORD/0b8b1a58cc336557f9b714f17b1ea9e3)
+  * [Text-based games](https://docs.google.com/presentation/d/17KqDS0VwfJV7S-4Hs9xAZjazcOzVjHydwSrON8OJbQg/edit?usp=sharing)
+  * ["How the web works"](https://gist.github.com/LOZORD/af71548016efd0fbf994cdd0ac5be125)
 
 ## News
 
