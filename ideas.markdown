@@ -42,6 +42,8 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - `Enhance your calm` (Express) error handler :arrow_right: Macintosh Plus :palm_tree:
 - [CurrentCondition](https://www.reddit.com/domain/currentcondition.org/), but with [XScreenSaver](https://en.wikipedia.org/wiki/XScreenSaver)
 - "Radio" on GitHub pages
+- Dating app for nihilists.
+- Twitter-as-a-filesystem, like [ytfs](https://github.com/rasguanabana/ytfs).
 
 ## Games
 
@@ -112,6 +114,12 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - A medieval bard game that uses Guitar Hero/Rockband controllers
 - Spacebard: a sci-fi version of the game above
   - Possibly JRPG/Pokemon style gameplay and combat?
+- Procedurally generated [Cha Cha Slide](https://en.wikipedia.org/wiki/Cha_Cha_Slide) game.
+  - Elimination style with Uno-like mechanics?
+- Asymmetric multiplayer game with two-player teams of dogs and dog-owners that fight for control of a dog park.
+- Procedurally generated bank robbery escape driver game.
+- AR LARPing.
+- 5v5 evolving blob RTS (like agar.io).
 
 ## Compilers and Languages
 
@@ -135,6 +143,12 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - The ultimate compiler: find a way to translate simple English instructions into code
   - I feel like this is more of a linguistic and philosophical problem than computational
 - Make a programming language that is the unholy union of [Rail](https://esolangs.org/wiki/Rail) and [Factorio](https://www.factorio.com/)
+- Argument colorizer/differentiator for VSCode.
+- A Go tool for finding single-use interfaces and other high-level antipatterns.
+- Protocol buffer moving contract verification language.
+  - E.g. "foo.id is greater than 0 and in the database, foo.bars is sorted"
+- Kubernetes config generated through Basel config (called [Kragel](http://en.brickimedia.org/wiki/Kragle))
+- Containerized shell testing library
 
 ## Art and Music
 
@@ -158,6 +172,9 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Lorem ipsum image generator
 - "OpenGL/WebGL scene to ASCII" library
   - Shoutout to [zeroeth](https://github.com/zeroeth) and [this video](http://sol.gfxile.net/litterae/)
+- Music album encryption/steganography (like from that one episode of Mr Robot).
+- Process and/or file abstraction for playing music via MIDI.
+- Learning about music generes via a pairing chat app with music service integration.
 
 ## Mobile
 
@@ -176,6 +193,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Uber for Ninjas: hire people to find other people for you
   - E.g. you and your friend are mutually lost at a large event
 - Mobile keyboard for learning a new human language
+- An app that turns all right hand emoji into left hand emoji.
 
 ## Artificial Intelligence, Machine Learning, and Natural Language Processing
 
@@ -192,6 +210,9 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Dance party music mixer AI
 - Given an emoji "sentence," transform it into a likely English sentence
   - See [whatmoji.com](http://whatmoji.com/) for a similar idea
+- Using AI to separate instruments in music (this is probably already a thing).
+- using TensorFlow to train a model to read lips.
+
 
 ## Hardware
 
@@ -201,6 +222,7 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Computer vision theremin
 - Nod ring/Myo armband for manipulating CAT scans and 3D radiology images
 - Using Walkmans and tape recorders as portable storage drives
+- Uber for computers: get money for donating your computer during downtime
 
 ## Miscellany
 
@@ -229,3 +251,5 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - my attempt at taking the whole transactional memory thing a little too seriously
   - it basically turns your available heap chunk into a database with tables for different types
   - might be a worse version of slab allocation :grinning:
+- Fully document the x86 source code.
+- Using Upspin for a shared computational cloud.
