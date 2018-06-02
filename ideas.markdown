@@ -120,6 +120,9 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Procedurally generated bank robbery escape driver game.
 - AR LARPing.
 - 5v5 evolving blob RTS (like agar.io).
+- A platformer where you have a pet mastiff that drools the gels from Portal 2.
+- Internet-famous dog trading card game (with computer vision).
+- An app like HQ that is a live music show where players have to tap along with the song to win the game or win points or whatever.
 
 ## Compilers and Languages
 
@@ -149,6 +152,10 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - E.g. "foo.id is greater than 0 and in the database, foo.bars is sorted"
 - Kubernetes config generated through Basel config (called [Kragel](http://en.brickimedia.org/wiki/Kragle))
 - Containerized shell testing library
+- A Go tool that finds antipatterns such as "singly-used" interfaces, factories, etc.
+- A tool that parses JSON and attempts to generate corresponding protobuf definitions.
+- A tool that finds mismatch declarations between C and Go files (for cgo) and attempts to insert the necessary comments.
+- A Go tool that looks at coverage and generates GitHub issues.
 
 ## Art and Music
 
@@ -175,6 +182,8 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
 - Music album encryption/steganography (like from that one episode of Mr Robot).
 - Process and/or file abstraction for playing music via MIDI.
 - Learning about music generes via a pairing chat app with music service integration.
+- Develop a system that sews together sonically/tonally consistent music and ads instead of the insanity we have now.
+- PNG-to-SVG compressor (turning patches of similar colors into a single blob in SVG). Could be a cool use of the Voronoi splitting algorithm.
 
 ## Mobile
 
@@ -194,6 +203,11 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - E.g. you and your friend are mutually lost at a large event
 - Mobile keyboard for learning a new human language
 - An app that turns all right hand emoji into left hand emoji.
+- A version of Google Maps that helps to combat the "tourist look".
+  - Or maybe one that identifies lost tourists and pairs them with guides for help?
+- Putting internet/bluetooth beacons in the NYC subway.
+- An app that can interpret photos of the MTA service change posters and send out alerts accordingly.
+- Volunteering or donation dating app: volunteer as a date based on common interests, or go on a date to donate or raise money.
 
 ## Artificial Intelligence, Machine Learning, and Natural Language Processing
 
@@ -212,7 +226,19 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - See [whatmoji.com](http://whatmoji.com/) for a similar idea
 - Using AI to separate instruments in music (this is probably already a thing).
 - using TensorFlow to train a model to read lips.
+- Develop a "political consensus" algorithm (like stable marriage algorithm) based on changes to the current law. Hopefully it can answer questions like "what can we agree on now?".
+- Using AI to generate "36 Hours In" guides for any city.
 
+## OS, Systems, and Cloud
+
+- Testing framework for xv6 in Go (or Python).
+- Fully document the x86 source code.
+- Using Upspin for a shared computational cloud.
+- VM that does machine learning training on various programs' syscalls.
+- Kubernetes chooses a random pod and makes it a debugging and profiling pod that stores information that allows for rich remote debugging.
+- Using Upspin and blockchain to have a replicable media library that allows only a single checkout of each item at a time.
+- Spinnaker for data. Some sort of automatic database layer/RPC between different Cloud or DB systems.
+- Evolutionary algorithm with Kubernetes deployments and scalability.
 
 ## Hardware
 
@@ -251,5 +277,6 @@ Feel free to take any of them. Just let me know so I can add a link to your proj
   - my attempt at taking the whole transactional memory thing a little too seriously
   - it basically turns your available heap chunk into a database with tables for different types
   - might be a worse version of slab allocation :grinning:
-- Fully document the x86 source code.
-- Using Upspin for a shared computational cloud.
+- Coffee creamers with nutritional value.
+- Zagat for travel plans
+- A tool that reads your bash history and suggests new bash variables and aliases.
