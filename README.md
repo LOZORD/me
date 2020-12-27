@@ -26,6 +26,13 @@ These are some ideas I've had for projects.
 
 ## [Writing](http://github.com/LOZORD/me/tree/master/writing)
 
+Click on [this directory](http://github.com/LOZORD/me/tree/master/writing) for some long reads.
+
+Other things I've written:
+
+* After my experience working on the Go team at Google, I decided to [write about it](https://medium.com/@ljrudberg/working-on-the-go-team-at-google-917b2c8d35ff)!
+* [Spelling Bee is Easy, Letter Boxed is NP-Hard](https://docs.google.com/document/d/19oQ_2WLBq5KYQyjZbgMEQy6CzxXplEcSNZOaiUz36jU/edit?usp=sharing)
+
 ## [Art](http://github.com/LOZORD/me/tree/master/art)
 
 I create art through computational and digital mediums.
@@ -49,5 +56,5 @@ The majority of my work falls in two categories:
 
 ## News
 
-### I wrote something!
-After my experience working on the Go team at Google, I decided to [write about it](https://medium.com/@ljrudberg/working-on-the-go-team-at-google-917b2c8d35ff)!
+I got nothing...
+
