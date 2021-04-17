@@ -1,17 +1,17 @@
 # Me, Leo Rudberg
 Welcome to my personal website! No, seriously!
 
-I am currently a software engineer at [Google](https://google.com), working on developer tools and infrastructure for [Google Cloud](https://cloud.google.com).
+I am currently a software engineer at [Google](https://google.com), working on iOS developer tools and infrastructure.
 
 See the [__News__](#news) section to learn what I've been up to most recently.
 
-Being a busy hacking hedge knight/console cowboy/professional nosher leaves
+Being a busy hacking [hedge knight](https://gameofthrones.fandom.com/wiki/Hedge_knight)/[console cowboy](https://williamgibson.fandom.com/wiki/Case)/professional nosher leaves
 me with little time to worry about maintaining a nice personal site. Plus, this
 is free, and I :heart: git!
 
 I have old information [here](http://cs.wisc.edu/~leo).
 
-This is what I look like:
+This is what I look like (circa 2015):
 ![Yup, this is me](https://github.com/LOZORD/me/blob/master/me.jpg)
 
 Take a look around...
@@ -56,5 +56,5 @@ The majority of my work falls in two categories:
 
 ## News
 
-I got nothing...
+April 2021: I've moved from working on Google Cloud Build to Google's internal iOS developer tools and infrastructure.
 
