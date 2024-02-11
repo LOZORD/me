@@ -53,8 +53,11 @@ The majority of my work falls in two categories:
   * [Go](https://gist.github.com/LOZORD/0b8b1a58cc336557f9b714f17b1ea9e3)
   * [Text-based games](https://docs.google.com/presentation/d/17KqDS0VwfJV7S-4Hs9xAZjazcOzVjHydwSrON8OJbQg/edit?usp=sharing)
   * ["How the web works"](https://gist.github.com/LOZORD/af71548016efd0fbf994cdd0ac5be125)
+  * [Chaos Theory](https://docs.google.com/presentation/d/1_iaKQkMK0cY4epRuKXv1yWhBVwYt9ys0tYQx43wD2_I/edit?usp=sharing)
 
 ## News
 
-April 2021: I've moved from working on Google Cloud Build to Google's internal iOS developer tools and infrastructure.
+__February 2024__: I continue to work on Apple release infrastructure at Google.
+I've also been using a lot of Kotlin at work, which I enjoy.
+In January, I turned `0x01e` years old!
 
